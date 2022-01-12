@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prestonbroad
-- 👀 I’m interested in Web Development, Computers, Keyboards, Sneakers and the latest Teach!
+- 👀 I’m interested in Web Development, Computers, Keyboards, Sneakers and the latest tech!
 - 🌱 I’m currently learning Full Stack Web Development
 - 📫 You can reach me at prestonmarkbroad@gmail.com
 
